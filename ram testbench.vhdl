@@ -1,4 +1,0 @@
-
-LIBRARY ieee;
-USE ieee.std_logic_1164.ALL;
-use IEEE.STD_LOGIC_ARITH.ALL;
